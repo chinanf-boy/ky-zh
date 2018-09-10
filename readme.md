@@ -4,7 +4,7 @@
 [translate-svg]: http://llever.com/translate.svg
 [translate-list]: https://github.com/chinanf-boy/chinese-translate-list\
 
-「 Ky是一个小巧典雅的基于[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)浏览器的HTTP客户端 」
+「 Ky是一个小巧典雅的基于浏览器[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)的HTTP客户端 」
 
 [中文](./readme.md) |  [english](https://github.com/sindresorhus/ky)
 
@@ -44,7 +44,7 @@
 	<br>
 </div>
 
-> Ky是一个小巧典雅的基于浏览器的HTTP客户端[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
+> Ky是一个小巧典雅的基于浏览器[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)的HTTP客户端
 
 [![Build Status](https://travis-ci.com/sindresorhus/ky.svg?branch=master)](https://travis-ci.com/sindresorhus/ky) [![codecov](https://codecov.io/gh/sindresorhus/ky/branch/master/graph/badge.svg)](https://codecov.io/gh/sindresorhus/ky)
 
